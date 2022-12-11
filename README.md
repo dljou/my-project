@@ -1,1 +1,1 @@
-This is my Redux project [Live Deployment]()
+This is my Redux project [Live Deployment](https://my-project.ajzambrano5.repl.co)
